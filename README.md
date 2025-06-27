@@ -71,9 +71,6 @@ Follow clean coding practices and meaningful commit messages.
 📄 License
 This project is licensed under the MIT License.
 
-📞 Contact
-For support or inquiries, please contact the project maintainer at [your-email@example.com].
-
 📽 Demo
 🎥 Watch the Video Demo – Coming Soon or [Demo video--https://youtu.be/W_21QmNcJ_k]
 
