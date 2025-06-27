@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 
 ## Demo
 
-🎥 Watch the Video Demo – Coming Soon or [Demo video](https://youtu.be/W_21QmNcJ_k)
+🎥 Watch the Video Demo – [Demo video](https://youtu.be/W_21QmNcJ_k)
 
 ---
 
